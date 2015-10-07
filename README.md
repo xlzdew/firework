@@ -1,2 +1,3 @@
 # firework
-firework by using svg &amp; rapheal
+firework by using svg &amp; raphael
+raphael: http://raphaeljs.com/
